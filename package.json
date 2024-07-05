@@ -1,0 +1,15 @@
+{
+  "name": "trillo-project",
+  "version": "1.0.0",
+  "description": "Practising sass and master flexbox",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss:assests/css"
+  },
+  "keywords": "",
+  "author": "Sohad Almadhoon",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.53.0"
+  }
+}
